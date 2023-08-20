@@ -1,8 +1,8 @@
-<h1 align="center"> Semáforo feito no Arduino em Ladder </h1>
+<h1 align="center"> Semáforo feito no Arduino com lógica em Ladder </h1>
 
 <p align="center">
-<img width="400" height="300" src="https://github.com/Moliveira7/Semaforo-em-Ladder/blob/master/Circuito_Semaforo.png">
-<img width="400" height="300" src="https://github.com/Moliveira7/Semaforo-em-Ladder/blob/master/Circuito_No_PLC_Simulator.png">
+<img width="400" height="300" src="https://github.com/Moliveira7/Pisca_Semaforo/blob/main/Circuito_No_PLC_Simulator.png">
+<img width="400" height="300" src="https://github.com/Moliveira7/Pisca_Semaforo/blob/main/Circuito_Semaforo.png">
 </p>
 
 
@@ -11,7 +11,7 @@
  
 <h2>Descrição do Projeto</h2>
 
-Projeto desenvolvido usando a linguagem Ladder, e executado no simulador online do tinkercad, a ideia foi demonstrar um sitema de semaforo, onde que foi programado as três cores de led verde começando e mantendo-se aceso durante 5 segundos e em seguida o led de cor vermelha com as mesmas configuração, e por ultimo o led amarelo que ficar aceso por 15 segundos
+Projeto desenvolvido usando a linguagem Ladder usand o PLC Ladder Simulator e gerado para a linguagem do arduino C ++, o circuito foi executado no simulador online do tinkercad, a ideia foi demonstrar um sitema de semaforo, onde que foi programado as três cores de led verde começando e mantendo-se aceso durante 5 segundos e em seguida o led de cor vermelha com as mesmas configuração, e por ultimo o led amarelo que ficar aceso por 15 segundos
 
 <h2> :hammer: Funcionalidades do projeto</h2>
 
@@ -28,6 +28,7 @@ https://www.tinkercad.com/things/jYbDYQ8AkMX-copy-of-arduino-e-dois-botoes/edite
 As seguintes ferramentas foram usadas na constr  ução do projeto:
 
 - Linguagem Ladder
+- Linguagem C ++
 - Plataforma do Arduino
 - 1 Arduino uno
 - 3 LEDS
